@@ -1,0 +1,12 @@
+# Variaveis de ambiente (NUNCA subir credenciais!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
